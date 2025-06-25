@@ -46,7 +46,7 @@ const About = () => {
                 color: 'var(--color-text-light)',
               }}
             >
-              We're a team of passionate developers and designers dedicated to creating exceptional digital experiences.
+              We're two passionate graduate developers who discovered our love for design and web development, bringing fresh ideas and creative energy to every project.
             </Typography>
             <Typography
               variant="body1"
@@ -56,7 +56,7 @@ const About = () => {
                 lineHeight: 1.8,
               }}
             >
-              At Beckohn Digital, we believe that a great website is more than just code – it's a powerful tool that can transform your business. Our team combines technical expertise with creative vision to deliver websites that not only look stunning but also drive real results.
+              Founded by Freddie Kohn and Peter Beck, Beckohn Digital was born from our shared passion for creating exceptional digital experiences. We believe that a great website is more than just code – it's a powerful tool that can transform your business. Our fresh perspective and enthusiasm for experimenting with innovative designs allows us to deliver websites that not only look stunning but also drive real results.
             </Typography>
             <Typography
               variant="body1"
@@ -65,7 +65,7 @@ const About = () => {
                 lineHeight: 1.8,
               }}
             >
-              With years of experience in web development and a deep understanding of modern technologies, we're committed to helping businesses of all sizes establish a strong online presence and achieve their digital goals.
+              As recent graduates with a modern understanding of the latest technologies and design trends, we're committed to helping businesses of all sizes establish a strong online presence and achieve their digital goals through creative and cutting-edge solutions.
             </Typography>
           </motion.div>
 

@@ -32,19 +32,19 @@ const theme = createTheme({
   palette: {
     mode: 'dark',
     primary: {
-      main: '#A7F0BA',
-      dark: '#A7F0BA',
+      main: '#64ffda',
+      dark: '#1de9b6',
     },
     secondary: {
-      main: '#A7F0BA',
+      main: '#a084e8',
     },
     background: {
-      default: '#021300',
-      paper: '#121F12',
+      default: '#0d1117',
+      paper: '#161b22',
     },
     text: {
-      primary: '#F1F5F1',
-      secondary: '#A9B9A9',
+      primary: '#e6edf3',
+      secondary: '#8b949e',
     },
     action: {
       hover: 'rgba(255, 255, 255, 0.1)',
@@ -53,7 +53,7 @@ const theme = createTheme({
       textLighter: 'rgba(255, 255, 255, 0.9)',
       borderLight: 'rgba(255, 255, 255, 0.1)',
       navbarScrolled: 'rgba(255, 255, 255, 0.95)',
-      bgDark: '#121F12',
+      bgDark: '#161b22',
     },
   },
   typography: {

@@ -1,28 +1,28 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
 
 :root {
-  --color-primary: #A7F0BA    ;
-  --color-primary-dark: #011507    ;
-  --color-secondary: #A7F0BA    ;
-  --color-bg-light: #2b4930;
-  --color-bg-dark: #121F12;
+  --color-primary: #64ffda;
+  --color-primary-dark: #090c10; /*#1de9b6;*/
+  --color-secondary: #a084e8;
+  --color-bg-light: #21262d;
+  --color-bg-dark: #161b22;
   /*--color-bg-darker: #031600;*/
-  --color-white: #e9ffea;
-  --color-black: #021300;
+  --color-white: #e6edf3;
+  --color-black: #0d1117;
   --color-scrollbar-track: #f1f1f1;
   --color-scrollbar-thumb: var(--color-primary);
-  --color-scrollbar-thumb-hover: var(--color-primary-dark);
+  --color-scrollbar-thumb-hover: #1de9b6;
   --color-link: #61dafb;
   --color-header-bg: #282c34;
-  --color-text: #F1F5F1;
-  --color-text-light: #A9B9A9;
+  --color-text: #e6edf3;
+  --color-text-light: #8b949e;
   --color-text-lighter: rgba(255, 255, 255, 0.9);
   --color-border-light: rgba(255, 255, 255, 0.1);
   
   /* Additional variables for complex styling */
   --color-navbar-bg-scrolled: rgba(255, 255, 255, 0.95);
-  --color-gradient-start: #0d2611;
-  --color-gradient-end: #08160b;
+  --color-gradient-start: #0f2027;
+  --color-gradient-end: #203a43;
 }
 
 * {
